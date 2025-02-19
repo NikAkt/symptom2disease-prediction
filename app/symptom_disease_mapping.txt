@@ -1,0 +1,131 @@
+burning_micturition	Urinary tract infection, Drug Reaction
+hip_joint_pain	Osteoarthristis
+yellow_crust_ooze	Impetigo
+shivering	Allergy
+sweating	Pneumonia, Tuberculosis, Malaria, Hypoglycemia, Hyperthyroidism, Heart attack
+joint_pain	Psoriasis, hepatitis A, Osteoarthristis, Dengue, Hepatitis D, Hepatitis E
+continuous_sneezing	Allergy, Common Cold
+pain_during_bowel_movements	Dimorphic hemmorhoids(piles)
+swollen_extremeties	Hypothyroidism
+red_spots_over_body	Chicken pox, Dengue
+visual_disturbances	Migraine
+cramps	Varicose veins
+loss_of_smell	Common Cold
+fluid_overload	Alcoholic hepatitis
+belly_pain	Typhoid
+breathlessness	Pneumonia, Tuberculosis, Bronchial Asthma, Heart attack
+muscle_weakness	Arthritis, Hyperthyroidism
+swelling_joints	Osteoarthristis, Arthritis
+loss_of_appetite	Hepatitis C, Tuberculosis, hepatitis A, Hepatitis B, Dengue, Hepatitis E, Hepatitis D, Chicken pox, Peptic ulcer diseae, Chronic cholestasis
+stomach_pain	GERD, Drug Reaction
+acute_liver_failure	Hepatitis E
+phlegm	Pneumonia, Tuberculosis, Common Cold
+pain_behind_the_eyes	Dengue
+knee_pain	Osteoarthristis
+abdominal_pain	Alcoholic hepatitis, Typhoid, Hepatitis B, hepatitis A, Jaundice, Hepatitis E, Hepatitis D, Peptic ulcer diseae, Chronic cholestasis
+family_history	Bronchial Asthma, Hepatitis C
+bruising	Varicose veins
+mild_fever	hepatitis A, Chicken pox, Tuberculosis
+yellowing_of_eyes	Hepatitis C, Hepatitis B, hepatitis A, Tuberculosis, Hepatitis D, Hepatitis E, Chronic cholestasis
+muscle_pain	hepatitis A, Malaria, Dengue, Common Cold
+skin_rash	Psoriasis, Impetigo, Acne, Dengue, Chicken pox, Fungal infection, Drug Reaction
+runny_nose	Common Cold
+irritability	Hypoglycemia, Hyperthyroidism, Migraine, Hypothyroidism
+mood_swings	Hyperthyroidism, Hypothyroidism
+polyuria	Diabetes
+blurred_and_distorted_vision	Hypoglycemia, Diabetes, Migraine
+swelled_lymph_nodes	Common Cold, Chicken pox, Tuberculosis
+neck_pain	Osteoarthristis, Cervical spondylosis
+foul_smell_of urine	Urinary tract infection
+swollen_blood_vessels	Varicose veins
+scurring	Acne
+small_dents_in_nails	Psoriasis
+itching	Hepatitis B, Jaundice, Chicken pox, Chronic cholestasis, Fungal infection, Drug Reaction
+high_fever	Pneumonia, Typhoid, Bronchial Asthma, Impetigo, Common Cold, Tuberculosis, Dengue, Jaundice, AIDS, Malaria, Chicken pox, Hepatitis E
+irregular_sugar_level	Diabetes
+receiving_unsterile_injections	Hepatitis B
+painful_walking	Osteoarthristis, Arthritis
+malaise	Pneumonia, Hepatitis B, Tuberculosis, Common Cold, Dengue, Chicken pox
+bladder_discomfort	Urinary tract infection
+red_sore_around_nose	Impetigo
+blood_in_sputum	Tuberculosis
+puffy_face_and_eyes	Hypothyroidism
+pain_in_anal_region	Dimorphic hemmorhoids(piles)
+lack_of_concentration	Hypertension
+fast_heart_rate	Pneumonia, Hyperthyroidism
+headache	Typhoid, Common Cold, Migraine, Hypertension, Dengue, Malaria, Chicken pox, Hypoglycemia, Paralysis (brain hemorrhage), (vertigo) Paroymsal  Positional Vertigo
+muscle_wasting	AIDS
+receiving_blood_transfusion	Hepatitis B
+nausea	Typhoid, Hepatitis C, hepatitis A, Dengue, Hepatitis E, Malaria, Hepatitis D, Hypoglycemia, (vertigo) Paroymsal  Positional Vertigo, Chronic cholestasis
+anxiety	Hypoglycemia
+watering_from_eyes	Allergy
+excessive_hunger	Hypoglycemia, Migraine, Diabetes, Hyperthyroidism
+passage_of_gases	Peptic ulcer diseae
+stomach_bleeding	Hepatitis E
+cold_hands_and_feets	Hypothyroidism
+acidity	GERD, Migraine
+redness_of_eyes	Common Cold
+distention_of_abdomen	Alcoholic hepatitis
+bloody_stool	Dimorphic hemmorhoids(piles)
+ulcers_on_tongue	GERD
+blister	Impetigo
+skin_peeling	Psoriasis
+depression	Migraine, Hypothyroidism
+slurred_speech	Hypoglycemia
+nodal_skin_eruptions	Fungal infection
+back_pain	Cervical spondylosis, Dengue
+movement_stiffness	Arthritis
+coma	Hepatitis E
+restlessness	Diabetes, Hyperthyroidism
+dizziness	Hypertension, Cervical spondylosis, Hypothyroidism
+patches_in_throat	AIDS
+pus_filled_pimples	Acne
+obesity	Varicose veins, Diabetes
+throat_irritation	Common Cold
+sinus_pressure	Common Cold
+weakness_of_one_body_side	Paralysis (brain hemorrhage)
+altered_sensorium	Paralysis (brain hemorrhage)
+abnormal_menstruation	Hyperthyroidism, Hypothyroidism
+inflammatory_nails	Psoriasis
+congestion	Common Cold
+dischromic _patches	Fungal infection
+sunken_eyes	Gastroenteritis
+irritation_in_anus	Dimorphic hemmorhoids(piles)
+chest_pain	Pneumonia, Tuberculosis, Common Cold, GERD, Hypertension, Heart attack
+diarrhoea	hepatitis A, Malaria, Typhoid, Hyperthyroidism, Gastroenteritis
+fatigue	Pneumonia, Typhoid, Bronchial Asthma, Hepatitis C, Hepatitis B, Tuberculosis, Common Cold, Diabetes, Dengue, Jaundice, Hepatitis E, Hepatitis D, Chicken pox, Hypoglycemia, Hypothyroidism, Hyperthyroidism, Varicose veins
+swollen_legs	Varicose veins
+spinning_movements	(vertigo) Paroymsal  Positional Vertigo
+weight_gain	Hypothyroidism
+dehydration	Gastroenteritis
+toxic_look_(typhos)	Typhoid
+vomiting	Alcoholic hepatitis, Typhoid, Tuberculosis, hepatitis A, GERD, Dengue, Jaundice, Hepatitis D, Malaria, Hepatitis E, Hypoglycemia, Paralysis (brain hemorrhage), (vertigo) Paroymsal  Positional Vertigo, Peptic ulcer diseae, Chronic cholestasis, Gastroenteritis, Heart attack
+mucoid_sputum	Bronchial Asthma
+drying_and_tingling_lips	Hypoglycemia
+extra_marital_contacts	AIDS
+spotting_ urination	Drug Reaction
+lethargy	Chicken pox, Diabetes, Hypothyroidism, Hepatitis B
+cough	Pneumonia, GERD, Bronchial Asthma, Tuberculosis, Common Cold
+blackheads	Acne
+continuous_feel_of_urine	Urinary tract infection
+weakness_in_limbs	Cervical spondylosis
+constipation	Dimorphic hemmorhoids(piles), Typhoid
+loss_of_balance	Cervical spondylosis, Hypertension, (vertigo) Paroymsal  Positional Vertigo
+history_of_alcohol_consumption	Alcoholic hepatitis
+chills	Pneumonia, Allergy, Typhoid, Common Cold, Tuberculosis, Dengue, Malaria
+indigestion	Migraine, Peptic ulcer diseae
+dark_urine	hepatitis A, Hepatitis D, Jaundice, Hepatitis E, Hepatitis B
+stiff_neck	Migraine, Arthritis
+yellowish_skin	Alcoholic hepatitis, Hepatitis C, Hepatitis B, hepatitis A, Jaundice, Hepatitis D, Hepatitis E, Chronic cholestasis
+silver_like_dusting	Psoriasis
+enlarged_thyroid	Hypothyroidism
+internal_itching	Peptic ulcer diseae
+unsteadiness	(vertigo) Paroymsal  Positional Vertigo
+swelling_of_stomach	Alcoholic hepatitis
+rusty_sputum	Pneumonia
+brittle_nails	Hypothyroidism
+palpitations	Hypoglycemia
+increased_appetite	Diabetes
+weight_loss	Tuberculosis, Diabetes, Hyperthyroidism, Jaundice
+prominent_veins_on_calf	Varicose veins
+yellow_urine	Hepatitis B

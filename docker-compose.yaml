@@ -1,0 +1,61 @@
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    restart: always
+    ports:
+      - 9870:9870
+      - 9000:9000
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+      - ./app:/app
+      - ./hadoop/entrypoint.sh:/entrypoint.sh
+    environment:
+      - CLUSTER_NAME=test
+      - HADOOP_HEAPSIZE=1024
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+    env_file:
+      - ./hadoop.env
+    entrypoint: ["/bin/sh", "-c", "chmod +x /entrypoint.sh && /entrypoint.sh"]
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    restart: always
+    depends_on:
+      - namenode
+    volumes:
+      - hadoop_datanode:/hadoop/dfs/data
+    environment:
+      SERVICE_PRECONDITION: "namenode:9870"
+    env_file:
+      - ./hadoop.env
+
+  streamlit:
+    build: 
+      context: ./app
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app/:/app
+    depends_on:
+      - namenode
+      - datanode
+
+volumes:
+  hadoop_namenode:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/hadoop_data/namenode
+  hadoop_datanode:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/hadoop_data/datanode
